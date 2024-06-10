@@ -1,6 +1,5 @@
 - 🌱 I’m currently learning ...
 
-´´´js
-
+```js
 const akansel = "Wuppertal";
-´´´
+```
