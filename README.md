@@ -4,11 +4,11 @@
 
 
 {
-  "firstName: Akansel": {},
-  "lastName: Cengiz": {},
-  "country: Germany": {},
-  "profession: Junior Full Stack Web Developer": {},
+  "firstName: Akansel < /br>": {},
+  "lastName: Cengiz < /br>": {},
+  "country: Germany < /br>": {},
+  "profession: Junior Full Stack Web Developer < /br>": {},
   "skills: HTML, CSS, JavaScript, React, AWS, Github,": {},
-  "Astro, TailwindCSS": {},
-  "fastFoodLover: (true)": {}
+  "Astro, TailwindCSS < /br>": {},
+  "fastFoodLover: (true) < /br>": {}
 }
