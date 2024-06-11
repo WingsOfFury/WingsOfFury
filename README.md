@@ -2,13 +2,10 @@
 >by
 >.....
 
-
-{
-  "firstName: Akansel /n": {},
-  "lastName: Cengiz < /br>": {},
-  "country: Germany < /br>": {},
-  "profession: Junior Full Stack Web Developer < /br>": {},
-  "skills: HTML, CSS, JavaScript, React, AWS, Github,": {},
-  "Astro, TailwindCSS < /br>": {},
-  "fastFoodLover: (true) < /br>": {}
-}
+firstName:  Akansel
+lastName:  Cengiz
+country:  Germany
+profession:  Junior Full Stack Web Developer
+skills:  HTML, CSS, JavaScript, React, AWS, Github,  
+Astro,  TailwindCSS
+fastFoodLover:  (true)
