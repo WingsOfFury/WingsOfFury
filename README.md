@@ -4,7 +4,7 @@
 
 
 {
-  "firstName: Akansel < /br>": {},
+  "firstName: Akansel /n": {},
   "lastName: Cengiz < /br>": {},
   "country: Germany < /br>": {},
   "profession: Junior Full Stack Web Developer < /br>": {},
