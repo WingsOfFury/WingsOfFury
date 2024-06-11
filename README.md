@@ -20,7 +20,7 @@
         "username": "WingsOfFury",
         "profession": "Junior Full Stack Web Developer",
         "skills": "HTML, CSS, JavaScript, React, AWS, Github,
-                  "Astro, TailwindCSS",
+                  Astro, TailwindCSS",
         "country: "Germany",
         "state: "North-Rhine-Westphalia"
         "fastFoodLover: (true)":
