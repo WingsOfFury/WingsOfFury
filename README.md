@@ -14,9 +14,16 @@
 
 ```JSON
   {
-      "name": {
-        "first": "akansel",
-        "middle": "",
-        "last": "cengiz"
-      },
+      {
+        "first": "Akansel",
+        "last": "Cengiz",
+        "username": "WingsOfFury",
+        "profession": "Junior Full Stack Web Developer",
+        "skills": "HTML, CSS, JavaScript, React, AWS, Github,
+                  "Astro, TailwindCSS",
+        "country: "Germany",
+        "state: "North-Rhine-Westphalia"
+        "fastFoodLover: (true)":
+         }
+}
 ```
