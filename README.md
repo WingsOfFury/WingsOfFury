@@ -11,3 +11,12 @@
   "fastFoodLover: (true)": {}
 }
 ```
+
+```JSON
+  {
+      "name": {
+        "first": "akansel",
+        "middle": "",
+        "last": "cengiz"
+      },
+```
