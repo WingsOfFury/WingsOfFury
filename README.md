@@ -9,6 +9,6 @@
   "skills": "HTML, CSS, JavaScript, React, AWS, Github, Astro, TailwindCSS, Cypress",
   "country": "Germany",
   "state": "North-Rhine-Westphalia",
-  "fastFoodLover": true
+  "coffeeLove": true
 }
 ```
