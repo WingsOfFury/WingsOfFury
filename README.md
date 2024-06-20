@@ -16,4 +16,4 @@
 
 ![./Downloads/linkedin.svg](https://linkedin.de)
 
-![test image](/Downloads/arndt.jpeg)
+![test image](./Downloads/arndt.jpeg)
