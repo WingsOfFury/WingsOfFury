@@ -13,17 +13,13 @@
 }
 ```
 
-<style>
 
-
-display: flex;
-flex-direction: flex-row;
 
   
 <a href="https://www.linkedin.com/in/akansel-cengiz-455159204" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
 
 <a href="https://www.credly.com/users/akansel-cengiz/badges" rel="nofollow"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS_Badges" data-canonical-src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="max-width: 100%;"></a>
 
-</style>
+
 
 ![arndt](https://github.com/WingsOfFury/WingsOfFury/assets/85767977/dd1c9c36-9286-42b9-bc85-4c2a730760eb)
