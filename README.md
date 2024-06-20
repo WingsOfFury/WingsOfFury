@@ -39,10 +39,7 @@
 
 <a href="https://blog.kandji.io/guide-for-apple-it-introduction-to-mac-scripting" rel="nofollow"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" data-canonical-src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" style="max-width: 100%;"></a> <a href="https://www.npmjs.com/" rel="nofollow"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" data-canonical-src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" style="max-width: 100%;"></a>
 
-<a href="https://de.wikipedia.org/wiki/MacOS/" rel="nofollow"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" data-canonical-src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="max-width: 100%;"></a>
-
-
-<a href="https://www.microsoft.com/de-de" rel="nofollow"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://de.wikipedia.org/wiki/MacOS/" rel="nofollow"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" data-canonical-src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="max-width: 100%;"></a> <a href="https://www.microsoft.com/de-de" rel="nofollow"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width: 100%;"></a>
 
 
 
