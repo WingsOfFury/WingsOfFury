@@ -37,6 +37,9 @@
 
 <a href="https://miro.com/de/" rel="nofollow"><img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="Miro" data-canonical-src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="max-width: 100%;"></a> <a href="https://www.figma.com/de-de/" rel="nofollow"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="max-width: 100%;"></a>  <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;"></a>  <a href="https://github.com/" rel="nofollow"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a> 
 
+<a href="https://blog.kandji.io/guide-for-apple-it-introduction-to-mac-scripting" rel="nofollow"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Miro" data-canonical-src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" style="max-width: 100%;"></a>
+
+
 
 ---
 
@@ -44,6 +47,10 @@
 
 
 <a href="https://www.w3schools.com/" rel="nofollow"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="w3schools" data-canonical-src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" style="max-width: 100%;"></a> <a href="https://www.freecodecamp.org/" rel="nofollow"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp" data-canonical-src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" style="max-width: 100%;"></a> 
+
+<a href="https://www.freecodecamp.org/" rel="nofollow"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp" data-canonical-src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" style="max-width: 100%;"></a> 
+
+
 
 
 
