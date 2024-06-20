@@ -17,3 +17,7 @@
 ![./Downloads/linkedin.svg](https://linkedin.de)
 
 ![test image](./Downloads/arndt.jpeg)
+
+<img src="arndt.jpeg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
