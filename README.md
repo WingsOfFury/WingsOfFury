@@ -14,4 +14,4 @@
 ```
 
 
-<a href="https://linkedin.de" rel="nofollow"><img src="linkedin.com/in/akansel-cengiz-455159204" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://linkedin.de" rel="nofollow"><img src="https://linkedin.com/in/akansel-cengiz-455159204" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
