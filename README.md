@@ -33,5 +33,5 @@
 
 ### more Skills
 
-<a href="https://miro.com/de/" rel="nofollow"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Miro" data-canonical-src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="max-width: 100%;"></a> <a href="https://www.figma.com/de-de/" rel="nofollow"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="max-width: 100%;"></a> 
+<a href="https://miro.com/de/" rel="nofollow"><img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="Miro" data-canonical-src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="max-width: 100%;"></a> <a href="https://www.figma.com/de-de/" rel="nofollow"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="max-width: 100%;"></a> 
 
