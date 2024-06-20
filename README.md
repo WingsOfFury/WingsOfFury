@@ -10,11 +10,9 @@
     width: 100%;
     color: orange
 
-<h1>A heading</h1>
-<p>A paragraph.</p>
 
-</body>
-</html>
+
+
 
 ```JSON
 {
@@ -38,5 +36,6 @@
 
 
 
-
+</body>
+</html>
 
