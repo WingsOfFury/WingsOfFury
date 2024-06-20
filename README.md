@@ -1,5 +1,6 @@
-## Welcome to my github profile 🚀 
+## Welcome to my github profile 
 ![rocket](https://github.com/WingsOfFury/WingsOfFury/assets/85767977/8f5c4ab8-1e52-4801-8dab-c7186687cb6b)
+<img src="https://github.com/WingsOfFury/WingsOfFury/assets/85767977/8f5c4ab8-1e52-4801-8dab-c7186687cb6b" alt="rocket" width="200" height="200">
 
 
 ```JSON
