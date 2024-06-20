@@ -30,3 +30,7 @@
 <a href="https://astro.build/" rel="nofollow"><img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" alt="Astro" data-canonical-src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" style="max-width: 100%;"></a> <a href="https://markdown.de/" rel="nofollow"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" data-canonical-src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="max-width: 100%;"></a>  <a href="https://mdxjs.com/" rel="nofollow"><img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" alt="MDX" data-canonical-src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" style="max-width: 100%;"></a> 
 
 ---
+
+## more Skill
+
+<a href="https://mdxjs.com/" rel="nofollow"><img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" alt="MDX" data-canonical-src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" style="max-width: 100%;"></a> 
