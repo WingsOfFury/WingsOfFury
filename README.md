@@ -21,7 +21,7 @@
 <a href="https://www.credly.com/users/akansel-cengiz/badges" rel="nofollow"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS_Badges" data-canonical-src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="max-width: 100%;"></a>
 
 
-<style>
+<style is:inline>
   hr {
     width: 100%;
     color: orange;
