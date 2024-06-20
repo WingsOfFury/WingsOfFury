@@ -18,6 +18,6 @@
 
 ![test image](./Downloads/arndt.jpeg)
 
-<img src="/downloads/arndt.jpeg"
+<img src="./downloads/arndt.jpeg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
