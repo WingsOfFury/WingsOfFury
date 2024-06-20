@@ -31,6 +31,6 @@
 
 ---
 
-## more Skill
+#### more Skills
 
 <a href="https://mdxjs.com/" rel="nofollow"><img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" alt="MDX" data-canonical-src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" style="max-width: 100%;"></a> 
