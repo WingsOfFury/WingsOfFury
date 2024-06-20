@@ -23,3 +23,4 @@
 
 
 ![arndt](https://github.com/WingsOfFury/WingsOfFury/assets/85767977/dd1c9c36-9286-42b9-bc85-4c2a730760eb)
+![AWS_CCP_BADGE](https://github.com/WingsOfFury/WingsOfFury/assets/85767977/7715b1a7-33f4-4913-94e6-26adc74347ff)
