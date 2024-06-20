@@ -1,19 +1,3 @@
-<html>
-<head>
-<style>
- hr {
-    width: 100%;
-    color: orange;
-</style>
-</head>
-<body>hr {
-    width: 100%;
-    color: orange
-
-
-
-
-
 ```JSON
 {
   "firstName": "Akansel",
@@ -36,6 +20,9 @@
 
 
 
-</body>
-</html>
+<style>
+ hr {
+  color: orange;
+  width: 100%;
+</style>
 
