@@ -23,3 +23,4 @@
 
 
 
+![Icons zusammen](https://github.com/WingsOfFury/WingsOfFury/assets/85767977/ff4ca677-2cdf-4df8-952d-31cb85f40f33)
