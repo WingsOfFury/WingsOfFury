@@ -20,4 +20,4 @@
 
 
 
-https://linkedin.com/in/akansel-cengiz-455159204
+
