@@ -51,6 +51,8 @@
 
 <a href="https://www.w3schools.com/" rel="nofollow"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="w3schools" data-canonical-src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" style="max-width: 100%;"></a> <a href="https://www.freecodecamp.org/" rel="nofollow"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp" data-canonical-src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" style="max-width: 100%;"></a> 
 
+---
+<img src="https://github-readme-stats.vercel.app/api?username=wingsoffury&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="wingsoffury's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wingsoffury&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="wingsoffury's GitHub Stats" />
 
 
 
